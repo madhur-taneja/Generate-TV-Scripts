@@ -1,5 +1,8 @@
 # Project Specific
 
+# Python Environment
+venv
+
 # Jupyter Notebook
 MANIFEST
 build
